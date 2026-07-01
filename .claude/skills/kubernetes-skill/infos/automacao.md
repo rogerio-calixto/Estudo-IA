@@ -1,0 +1,1 @@
+ Inicia e encerra contêineres automaticamente conforme a demanda aumenta ou diminui.

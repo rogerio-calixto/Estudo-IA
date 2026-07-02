@@ -48,3 +48,7 @@ Define para a I.A. uma forma de se comportar ou insere uma nova habilidade para 
 
    ### Body
    Markdown com as instruções
+
+## Referências
+
+https://www.skills.sh/

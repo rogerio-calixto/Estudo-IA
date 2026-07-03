@@ -53,5 +53,3 @@ Define para a I.A. uma forma de se comportar ou insere uma nova habilidade para 
 ## Referências
 
 https://www.skills.sh/
-
-Teste
